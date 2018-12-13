@@ -1,5 +1,3 @@
-#include "pch.h"
-
 #include "test_runner.h"
 #include "http_request.h"
 #include "stats.h"
