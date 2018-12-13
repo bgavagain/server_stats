@@ -155,11 +155,13 @@
     <ClInclude Include="http_request.h" />
     <ClInclude Include="profile.h" />
     <ClInclude Include="stats.h" />
+    <ClInclude Include="stats_solution.h" />
     <ClInclude Include="test_runner.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="server_stats.cpp" />
     <ClCompile Include="stats.cpp" />
+    <ClCompile Include="stats_solution.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

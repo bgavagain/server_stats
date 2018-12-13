@@ -27,12 +27,18 @@
     <ClInclude Include="stats.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="stats_solution.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="server_stats.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="stats.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stats_solution.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
